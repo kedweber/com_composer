@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="plugin" group="system" method="upgrade" version="2.5">
+    <name>Composer</name>
+    <author>Dave Li</author>
+    <authorEmail>info@kubica.nl</authorEmail>
+    <creationDate>May 2014</creationDate>
+    <copyright>(C) 2014 Dave Li. All rights reserved.</copyright>
+    <license>GNU General Public License version 3 or later.</license>
+    <version>1.0</version>
+    <description>Composer</description>
+
+    <files>
+        <filename plugin="composer">composer.php</filename>
+    </files>
+</extension>
