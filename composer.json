@@ -1,0 +1,17 @@
+{
+    "name": "moyo/composer",
+    "type": "joomlatools-installer",
+    "description": "Composer Package",
+    "keywords": ["joomla", "composer"],
+    "homepage": "https://moyoweb.assembla.com/code/moyo-content/git-27/nodes",
+    "authors": [
+        {
+            "name": "Dave Li",
+            "email": "dave@moyoweb.nl",
+            "homepage": "http://www.moyoweb.nl"
+        }
+    ],
+    "require": {
+        "joomlatools/installer": "*"
+    }
+}
