@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<extension type="plugin" group="system" method="upgrade" version="2.5">
+<extension version="3.1" type="plugin" group="search">
     <name>Composer</name>
     <author>Dave Li</author>
-    <authorEmail>info@kubica.nl</authorEmail>
-    <creationDate>May 2014</creationDate>
-    <copyright>(C) 2014 Dave Li. All rights reserved.</copyright>
-    <license>GNU General Public License version 3 or later.</license>
-    <version>1.0</version>
+    <creationDate>June 2014</creationDate>
+    <copyright>Copyright (C) 2005 - 2014 Moyo Web Architects. All rights reserved.</copyright>
+    <license>GNU General Public License version 3 or later; see LICENSE.txt</license>
+    <authorEmail>dave@moyoweb.nl</authorEmail>
+    <authorUrl>moyoweb.nl</authorUrl>
+    <version>1.0.1</version>
     <description>Composer</description>
-
     <files>
         <filename plugin="composer">composer.php</filename>
+        <filename>composer.xml</filename>
     </files>
 </extension>
