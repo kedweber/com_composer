@@ -1,9 +1,9 @@
 {
-    "name": "moyo/composer",
+    "name": "cta/composer",
     "type": "joomlatools-installer",
     "description": "Composer Package",
     "keywords": ["joomla", "composer"],
-    "homepage": "https://moyoweb.assembla.com/code/moyo-content/git-27/nodes",
+    "homepage": "https://github.com/cta-int/composer",
     "authors": [
         {
             "name": "Dave Li",
