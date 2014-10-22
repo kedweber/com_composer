@@ -7,7 +7,7 @@
     <license>GNU General Public License version 3 or later; see LICENSE.txt</license>
     <authorEmail>dave@moyoweb.nl</authorEmail>
     <authorUrl>moyoweb.nl</authorUrl>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
     <description>Composer</description>
     <files>
         <filename plugin="composer">composer.php</filename>
