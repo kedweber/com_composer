@@ -1,6 +1,6 @@
-#  \(com_composer\) aka. com_default
+# Composer Component  \(com_composer\) aka. com_default
 
-A Joomla! Composer component performs class autoloading in the Content Construction Kit (CCK) for Joomla 2.5, 3.X and Nooku Server 1.2.x.
+This Joomla! Composer component performs class autoloading in the Content Construction Kit (CCK) for Joomla 2.5, 3.X and Nooku Server 1.2.x.
 
 The Composer component was written my [Moyo Web Architects](http://moyoweb.nl).
 
