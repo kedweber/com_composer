@@ -1,9 +1,9 @@
 {
-    "name": "cta/composer",
+    "name": "moyo/composer",
     "type": "joomlatools-installer",
     "description": "Composer Package",
     "keywords": ["joomla", "composer"],
-    "homepage": "https://github.com/cta-int/composer",
+    "homepage": "https://github.com/kedweber/composer",
     "authors": [
         {
             "name": "Dave Li",
